@@ -1,5 +1,7 @@
 ## Meteor Talk Notes (July 16th 2014)
 
+https://twitter.com/joshowens
+
 4 to six weeks build to polished
 
 mlb, nfl
@@ -58,6 +60,9 @@ splitting into 2 groups, second working on galaxy. deploy to meteor.com not supp
 ec2, digitial ocean, own deploys, another one coming called rocker-docker. they're working on a docker solution or a pay-us-to-deploy solution.
 
 ### book:
+
+testingwithmeteor.com
+
 book built in middleman, compiled into html, using print to create it.
 
 book on gumroad, put github name in and you'll get access to the repo.
