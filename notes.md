@@ -61,7 +61,7 @@ ec2, digitial ocean, own deploys, another one coming called rocker-docker. they'
 
 ### book:
 
-testingwithmeteor.com
+http://testingmeteor.com/
 
 book built in middleman, compiled into html, using print to create it.
 
